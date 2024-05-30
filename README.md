@@ -1,2 +1,31 @@
+# Sentiment-Analysis-Machine-Learning-Project
+
+## Problem Statement
+In this project, we aim to perform sentiment analysis on product reviews. Given a review, our goal is to determine whether it is a positive or negative sentiment. We’ll also keep track of the count of positive and negative reviews separately.
+
+### Approach
+1. Data Collection:     
+Gather a dataset of product reviews. This dataset should include both positive and negative reviews.  
+
+2. Data Preprocessing:       
+Clean the text data by removing special characters, stopwords, and performing stemming or lemmatization.
+Convert the text into numerical features (e.g., using TF-IDF or word embeddings).  
+
+3. Model Selection:      
+Choose an appropriate machine learning model for sentiment analysis.
+
+4. Model Training:       
+Split the dataset into training and testing sets.
+Train the selected model on the training data.    
+
+5. Model Evaluation:       
+Evaluate the model’s performance using metrics such as accuracy, precision, recall, and F1-score.
+Fine-tune hyperparameters if necessary.    
+
+6. Predictions:        
+Apply the trained model to predict sentiments for new reviews.   
+
+7. Counting Positive and Negative Reviews:     
+Keep track of the number of positive and neative reviews separately.
 # Sentiment-Analysis-Project
 Sentiment-Analysis-Machine-Learning-Project
