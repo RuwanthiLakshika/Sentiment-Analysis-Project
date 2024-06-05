@@ -30,5 +30,4 @@ Apply the trained model to predict sentiments for new reviews.
 
 7. Counting Positive and Negative Reviews:     
 Keep track of the number of positive and neative reviews separately.
-# Sentiment-Analysis-Project
-Sentiment-Analysis-Machine-Learning-Project
+
