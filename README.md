@@ -1,5 +1,8 @@
 # Sentiment-Analysis-Machine-Learning-Project
 
+![image](https://github.com/RuwanthiLakshika/Sentiment-Analysis-Project/assets/125971277/9625aeae-d7dd-4131-ba6f-03d3c4ac3c26)
+
+
 ## Problem Statement
 In this project, we aim to perform sentiment analysis on product reviews. Given a review, our goal is to determine whether it is a positive or negative sentiment. We’ll also keep track of the count of positive and negative reviews separately.
 
