@@ -4,7 +4,7 @@
 
 
 ## Problem Statement
-In this project, we aim to perform sentiment analysis on product reviews. Given a review, our goal is to determine whether it is a positive or negative sentiment. We’ll also keep track of the count of positive and negative reviews separately.
+In this project, aim to perform sentiment analysis on product reviews. Given a review, goal is to determine whether it is a positive or negative sentiment. We’ll also keep track of the count of positive and negative reviews separately.
 
 ### Approach
 1. Data Collection:     
