@@ -23,11 +23,15 @@ Train the selected model on the training data.
 
 5. Model Evaluation:       
 Evaluate the model’s performance using metrics such as accuracy, precision, recall, and F1-score.
-Fine-tune hyperparameters if necessary.    
+Fine-tune hyperparameters if necessary.
 
-6. Predictions:        
+Sentimental Analysis Project:      
+To run ( in VS terminal ) : pthon app.py
+
+
+7. Predictions:        
 Apply the trained model to predict sentiments for new reviews.   
 
-7. Counting Positive and Negative Reviews:     
+8. Counting Positive and Negative Reviews:     
 Keep track of the number of positive and neative reviews separately.
 
